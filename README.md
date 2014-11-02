@@ -17,3 +17,7 @@ It is translated from [JavaScript For Cats](http://jsforcats.com/) by [Max Ogden
               | | \        || |
               | |\ \       || )
              (_/ (_/      ((_/
+
+Source: https://github.com/weakish/cs4cats
+
+You can get copies in html, epub, mobi and pdf at [gitbook](http://weakish.gitbooks.io/cs4cats/)
