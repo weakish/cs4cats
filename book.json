@@ -1,0 +1,9 @@
+{
+    "plugins": ["autocover"],
+    "pluginsConfig": {
+        "autocover": {
+        	"title": "CoffeeScript for cats",
+        	"author": ""
+        }
+    }
+}
