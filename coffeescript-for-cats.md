@@ -363,7 +363,7 @@ Because now we have a variable for each cat that we can use to get that cats val
 ```coffee
 coffee> console.log(firstCat.name, firstCat.address)
 tommy The Alley
-coffee> console.log(firstCat.["name"], firstCat.["address"])
+coffee> console.log(firstCat["name"], firstCat["address"])
 tommy The Alley
 ```
 
